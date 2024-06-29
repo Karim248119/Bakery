@@ -8,7 +8,7 @@
     left: 0;
     height: 5rem;
     width: calc(100vw - 4rem);
-    background-color: white;
+    background-color: transparent;
     display: flex;
     justify-content: space-between;
     align-items: center;
